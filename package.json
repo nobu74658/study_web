@@ -1,5 +1,5 @@
 {
-    "name": "sample-app",
+    "name": "study-web",
     "private": true,
     "workspaces": [
         "apps/*"
